@@ -3,8 +3,8 @@
 練習小專案-內容包含
 
 Side Project\
-RESTful API 設計
-PostgreSQL資料庫串接
+RESTful API 設計\
+PostgreSQL資料庫串接\
 JWT驗證
 
 專案建置方法
